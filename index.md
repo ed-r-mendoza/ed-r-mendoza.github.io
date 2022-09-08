@@ -40,21 +40,21 @@ layout: home
 		</p>
 	</div>
 	<div class="column right">
+		<img src='./assets/mendoza.jpg' width='200' height='250' align='left' />
 		<p>
-			<img src='./assets/mendoza.jpg' width='200' height='250' align='left' />
-			<br>
-		</p>
-		<p>
+			&nbsp; <br>
 			<b> Research interests: </b> <br>
-			- Mathematical Chemistry <br>
-			- Geomatric Group Theory <br>
-			- Arithmetic 3-manifolds <br>
-			- Computational Geometry <br>
-			- Process Algebra <br>
-			- Concurrency Theory <br>
-			- Theory of Complex Systems <br>
-			- Computational Systems Biology <br>
-			- Applications of Systems Biology in Biomedicine and Biotechnology
+			<ul>
+				<li> Mathematical Chemistry </li>
+				<li> Geomatric Group Theory </li>
+				<li> Arithmetic 3-manifolds </li>
+				<li> Computational Geometry </li>
+				<li> Process Algebra </li>
+				<li> Concurrency Theory </li>
+				<li> Theory of Complex Systems </li>
+				<li> Computational Systems Biology </li>
+				<li> Applications of Systems Biology in Biomedicine and Biotechnology </li>
+			</ul>
 		</p>
 	</div>
 </div>
