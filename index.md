@@ -43,14 +43,14 @@ layout: home
 		<img src='./assets/mendoza.jpg' width='200' height='250' align='left' />
 		<p>
 			<b> Research interests: </b> <br>
-			- Mathematical chemistry <br>
-			- Geomatric group theory <br>
-			- Arithmetic 3 manifolds <br>
+			- Mathematical Chemistry <br>
+			- Geomatric Group Theory <br>
+			- Arithmetic 3-manifolds <br>
 			- Computational Geometry <br>
-			- Process algebra <br>
-			- Concurrency theory <br>
-			- Theory of complex systems <br>
-			- Computational Systesm Biology <br>
+			- Process Algebra <br>
+			- Concurrency Theory <br>
+			- Theory of complex Systems <br>
+			- Computational Systems Biology <br>
 			- Applications of Systems Biology in Biomedicine and Biotechnology
 		</p>
 	</div>
