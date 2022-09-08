@@ -41,5 +41,11 @@ layout: home
 	</div>
 	<div class="column right">
 		<img src='./assets/mendoza.jpg' width='200' height='250' align='left' />
+		<p>
+		Research interests:
+		- Mathematics: Mathematical chemistry, Geomatric group theory, Arithmetic 3 manifolds, Computational Geometry
+		- Computer Science: Process algebra, Concurrency theory
+		- Interdisciplinary: Theory of complex systems, Computational Systesm Biology, applications of Systems Biology in Biomedicine and Biotechnology
+		</p>
 	</div>
 </div>
