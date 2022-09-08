@@ -43,7 +43,7 @@ layout: home
 		<img src='./assets/mendoza.jpg' width='200' height='250' align='left' />
 		<p>
 			&nbsp; <br>
-			<b> Research interests: </b>
+			<b> Research Interests: </b>
 			<ul>
 				<li> Mathematical Chemistry </li>
 				<li> Geomatric Group Theory </li>
