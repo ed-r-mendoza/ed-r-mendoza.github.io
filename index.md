@@ -41,8 +41,8 @@ layout: home
 	</div>
 	<div class="column right">
 		<img src='./assets/mendoza.jpg' width='200' height='250' align='left' />
+		<br>
 		<p>
-			<br> 
 			<b> Research interests: </b> <br>
 			- Mathematical Chemistry <br>
 			- Geomatric Group Theory <br>
