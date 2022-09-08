@@ -50,7 +50,7 @@ layout: home
 			- Computational Geometry <br>
 			- Process Algebra <br>
 			- Concurrency Theory <br>
-			- Theory of complex Systems <br>
+			- Theory of Complex Systems <br>
 			- Computational Systems Biology <br>
 			- Applications of Systems Biology in Biomedicine and Biotechnology
 		</p>
