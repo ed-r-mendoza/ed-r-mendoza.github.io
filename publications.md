@@ -11,6 +11,10 @@ Jose EC, <u>Mendoza ER</u>, Talabis DASJ <br>
 *MATCH Communications in Mathematical and Computer Chemistry 89 (2023) 1 pp. 107 – 142*
 
 2022 <br>
+[**Reaction Network Analysis of Metabolic Insulin Signaling.**](https://link.springer.com/article/10.1007/s11538-022-01087-3) <br>
+Lubenia P, <u>Mendoza E</u>, Lao A <br>
+*Bulletin of Mathematical Biology, 84(129).*
+
 [**Modelling the Effects of Medium-Chain Triglycerides on Cerebral Ketone Body**](https://www.frontiersin.org/articles/10.3389/fsysb.2022.907957/full) <br>
 Espina A, <u>Mendoza E</u>, Lao A <br>
 *Metabolism. Frontiers of Systems Biology 23*
